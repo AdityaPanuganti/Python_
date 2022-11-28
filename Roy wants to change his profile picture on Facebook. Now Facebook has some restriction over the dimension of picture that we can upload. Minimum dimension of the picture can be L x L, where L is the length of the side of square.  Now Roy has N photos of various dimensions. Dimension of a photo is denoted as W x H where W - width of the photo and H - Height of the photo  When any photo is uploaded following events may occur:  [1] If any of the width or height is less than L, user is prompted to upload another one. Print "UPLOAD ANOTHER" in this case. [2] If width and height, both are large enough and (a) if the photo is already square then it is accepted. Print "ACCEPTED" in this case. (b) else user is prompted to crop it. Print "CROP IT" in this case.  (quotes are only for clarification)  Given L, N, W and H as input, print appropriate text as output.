@@ -1,4 +1,3 @@
-# Write your code here
 L = int(input())
 N = int(input())
 for i in range(N):
